@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600,700');
+
+body, html {
+  font-family: Poppins;
+}
+
+/*code view*/
+.content-view .CodeMirror pre {
+  font-family: 'Fira Mono';
+  font-size: 14px;
+}
+
+/*nav*/
+.aui-header {
+  background: #0679dc;
+  font-family:
+}
